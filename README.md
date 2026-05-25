@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @sergioLobaton
-- 👀 I’m interested in  develop apps
-- 🌱 I’m currently learning  php, laravel , JS  
-- 💞️ I’m looking to collaborate on  fullstack
-- 📫 How to reach me : timon.ndo@gmail.com 
+# 👋 Sergio Chávez Lobatón
 
-<!---
-sergioLobaton/sergioLobaton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Solutions Architect & Enterprise Software Engineer
+
+Building enterprise systems, backend architectures, APIs, and mission-critical platforms for government and institutional environments.
+
+## Stack
+`.NET` · `Laravel` · `DevExpress` · `Oracle` · `PostgreSQL` · `Docker` · `Ionic` · `REST APIs`
+
+## Focus Areas
+- Enterprise Backend Architecture
+- Government Systems
+- API Integration
+- Mobile Platforms
+- High-Availability Systems
+
+## Contact
+📫 sergio.ch.lobaton@gmail.com
+🌐 lobaton.systems
